@@ -1,10 +1,10 @@
-## Fur
+## DemoSite
 
 E-commerce template for Jekyll. Browse through a [live demo](https://turquoise-rook.cloudvent.net).
 
-![Fur template screenshot](images/_screenshot.png)
+![DemoSite template screenshot](images/_screenshot.png)
 
-Fur was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
+DemoSite was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
 
 Find more templates, themes and Jekyll tutorials at [CloudCannon Academy](https://learn.cloudcannon.com/).
 
@@ -26,7 +26,7 @@ Find more templates, themes and Jekyll tutorials at [CloudCannon Academy](https:
 
 ## Develop
 
-Fur was built with [Jekyll](http://jekyllrb.com/) version 3.4.3, but should support newer versions as well.
+DemoSite was built with [Jekyll](http://jekyllrb.com/) version 3.4.3, but should support newer versions as well.
 
 Install the dependencies with [Bundler](http://bundler.io/):
 
@@ -42,7 +42,7 @@ $ bundle exec jekyll serve
 
 ## Editing
 
-Fur is already optimised for adding, updating and removing products and editing the navigation and footer in CloudCannon.
+DemoSite is already optimised for adding, updating and removing products and editing the navigation and footer in CloudCannon.
 
 ### Posts
 

@@ -14,15 +14,15 @@
       link: /returns/
 - title: Social
   links:
-    - name: Fur
+    - name: DemoSite
       link: 'https://www.facebook.com/'
       new_window: true
       social_icon: Facebook
-    - name: Fur
+    - name: DemoSite
       link: 'https://www.instagram.com/'
       new_window: true
       social_icon: Instagram
-    - name: "@Fur"
+    - name: "@DemoSite"
       link: 'https://www.twitter.com'
       new_window: true
       social_icon: Twitter
